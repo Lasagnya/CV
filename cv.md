@@ -7,6 +7,8 @@
 **GitHub:** https://github.com/Lasagnya
 
 ## About Me
+I live in Belarus, Minsk.
+
 I am purposeful person who dreams of becoming a highly qualified specialist and doing really useful work. That's why I chose the job of a programmer, it gives me freedom of self-expression and the opportunity to see the results of my work. I want to make the world a little better and stay in history.
 
 ## Skills
